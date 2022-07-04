@@ -1,1 +1,3 @@
-console.log('prova')
+console.log('prova');
+var ciao;
+ciao = 5;
